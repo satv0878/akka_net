@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "akka_net", "akka_net.csproj", "{00B3FA53-05B9-49BA-AACE-2AE76B882F8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00B3FA53-05B9-49BA-AACE-2AE76B882F8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00B3FA53-05B9-49BA-AACE-2AE76B882F8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00B3FA53-05B9-49BA-AACE-2AE76B882F8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00B3FA53-05B9-49BA-AACE-2AE76B882F8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08395C94-40DB-40D6-9DF4-4EBC22684710}
+	EndGlobalSection
+EndGlobal
